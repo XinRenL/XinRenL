@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XinRenL
+- 👋 Hi, I’m Richard ren
 - 👀 I’m interested in physics and biology
 - 🌱 I’m currently learning cadnano2
 - 💞️ I’m looking to collaborate on ...
